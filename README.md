@@ -1,3 +1,10 @@
+# Hello, I have no idea what I'm doing. I hav enever touched a readme. Is # comments? Isn't this all comments?
+# Whatever, here's the link to our shared document.
+
+open https://docs.google.com/document/d/1y2uNK5R61G93KrpThK3CB2jaZXX1w5ZsF5Yz9FQZYGE/edit#
+
+# Now the stuff that was here by default
+
 # AmkSandbox
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.2.
